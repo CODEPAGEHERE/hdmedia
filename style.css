@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.fixed-top{
+    background-color: black !important;
+    height: 1000px !important;
+}
